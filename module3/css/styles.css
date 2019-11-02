@@ -1,0 +1,52 @@
+.navbar-brand a:hover, a:focus
+{
+ text-decoration: none;
+}
+
+.navbar-brand h2 { 
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand{
+	width: 100%;
+}
+section div{
+	
+	margin-bottom: 10px;
+	margin-left: 1 px;
+}
+.background{
+	background-color: grey;
+}
+
+#menu-categories-title{
+	font-weight: bold;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+.navbar-toggle{
+
+	margin-right: 0px;
+}
+#collapsable-nav {
+	width: 100%;
+
+}
